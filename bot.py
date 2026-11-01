@@ -103,4 +103,4 @@ def handle_photo(message):
 
 print("ربات اجرا شد...")
 bot.infinity_polling()
-#
+#finish
