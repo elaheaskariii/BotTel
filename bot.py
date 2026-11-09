@@ -22,7 +22,6 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-
 # =========================
 # ساخت QR
 # =========================
